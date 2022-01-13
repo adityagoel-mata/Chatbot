@@ -2,8 +2,7 @@
 This is the repository for Sep788 Project - Building a Chatbot. 
 
 Authors (McMaster University):
-Aditya Goel
-Wael Abdelkader
+Aditya Goel and Wael Abdelkader
 
 Main function's file - chatbot.py
 
