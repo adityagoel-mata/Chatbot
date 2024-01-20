@@ -1,12 +1,11 @@
 # Chatbot
-This is the repository for the project - Building a Chatbot.
+###Main file: chatbot.py
 
-Authors (McMaster University):
-Aditya Goel and Wael Abdelkader
+###Authors (McMaster University): Aditya Goel and Wael Abdelkader
 
-Main function's file - chatbot.py
 
-Description of Contents:
+
+###Description of Contents:
 1. Wikipedia_articles_dataset: Collection of all the Wikipedia articles from the dataset.
 2. csv_Final_Dataset_Compilation: Compilation of all the QA pairs in one sheet.
 3. chatbotproject_1_topicselection: Function that helps the user to select his topic and pick the relevant data from the entire dataset.
