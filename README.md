@@ -4,6 +4,10 @@
 **Authors (McMaster University):** Aditya Goel and Wael Abdelkader
 
 
+
+https://github.com/adityagoel-mata/Chatbot/assets/50823187/0f78a129-2850-43d9-8ead-82b61a9acc96
+
+
 **Description of Contents:**
 1. Wikipedia_articles_dataset: Collection of all the Wikipedia articles from the dataset.
 2. csv_Final_Dataset_Compilation: Compilation of all the QA pairs in one sheet.
