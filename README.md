@@ -1,5 +1,5 @@
-# sep788_project
-This is the repository for Sep788 Project - Building a Chatbot. 
+# Chatbot
+This is the repository for the project - Building a Chatbot.
 
 Authors (McMaster University):
 Aditya Goel and Wael Abdelkader
